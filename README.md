@@ -1,0 +1,2 @@
+# A-Framework-for-Brownfield-to-Virtual-Factory-Transformation
+A structured framework for modernizing Brownfield manufacturing sites into interactive Virtual Factories. Three stages: Data Collection, Conversion, Visualization. Tool selection via Morphological Matrix &amp; Unity Value Analysis. Validated at BMW Group paint shop for layout planning, collision detection, and collaborative decision-making.
